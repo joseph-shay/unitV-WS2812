@@ -9,7 +9,7 @@ to run it in maixypi:
   3.press the connect icon down left
   4.then press the run icon below that
 
-──────────────────────────────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────────────────────────────────
 
 to run it using the SD card slot:
   1.put in a supported sd card into the unitV SD-card slot
