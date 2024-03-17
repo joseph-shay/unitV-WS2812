@@ -15,5 +15,5 @@ to run it using the SD card slot:
   1.put in a supported sd card into the unitV SD-card slot
   2.open the code in maixypi
   3.connect the unitV to your computer
-  4.on the top left bar hover on "tools" then press "save open script to board(boot.py)"
+  4.on the top left bar hover on "tools" then press "transfer files to board" and select your file
   5. now everytime you turn the camera on the camera will start the code by itself
