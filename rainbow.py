@@ -1,3 +1,5 @@
+#Written by Yousef Shaykholeslam
+#17/3/2024
 from modules import ws2812
 from fpioa_manager import *
 import time
